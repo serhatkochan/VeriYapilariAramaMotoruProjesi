@@ -1,0 +1,3 @@
+﻿  VeriYapilariAramaMotoru.cpp
+C:\Users\serha\Desktop\cpp\VeriYapilariAramaMotoru\VeriYapilariAramaMotoru\VeriYapilariAramaMotoru.cpp(2676,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  VeriYapilariAramaMotoru.vcxproj -> C:\Users\serha\Desktop\cpp\VeriYapilariAramaMotoru\Debug\VeriYapilariAramaMotoru.exe

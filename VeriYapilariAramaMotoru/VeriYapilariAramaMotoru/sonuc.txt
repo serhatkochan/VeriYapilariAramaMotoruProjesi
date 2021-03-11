@@ -1,0 +1,55 @@
+1- serhate kelimesinden dosya1.txt dosyasinda 1 adet vardir ve 2. kelimelerinde bulunmustur.
+
+2- serhati kelimesinden dosya1.txt dosyasinda 1 adet vardir ve 3. kelimelerinde bulunmustur.
+
+3- serhataa kelimesinden dosya1.txt dosyasinda 1 adet vardir ve 4. kelimelerinde bulunmustur.
+
+4- serhatee kelimesinden dosya1.txt dosyasinda 1 adet vardir ve 5. kelimelerinde bulunmustur.
+
+5- serhatii kelimesinden dosya1.txt dosyasinda 1 adet vardir ve 6. kelimelerinde bulunmustur.
+
+dosya1.txt dosyasinda arama islemi 2.265 saniye surmustur.
+
+6- serhata kelimesinden dosya2.dat dosyasinda 1 adet vardir ve 1. 3. kelimelerinde bulunmustur.
+
+7- serhate kelimesinden dosya2.dat dosyasinda 1 adet vardir ve 2. kelimelerinde bulunmustur.
+
+8- serhati kelimesinden dosya2.dat dosyasinda 1 adet vardir ve kelimelerinde bulunmustur.
+
+9- serhataa kelimesinden dosya2.dat dosyasinda 1 adet vardir ve 4. kelimelerinde bulunmustur.
+
+10- serhatee kelimesinden dosya2.dat dosyasinda 1 adet vardir ve 5. kelimelerinde bulunmustur.
+
+11- serhatii kelimesinden dosya2.dat dosyasinda 1 adet vardir ve 6. kelimelerinde bulunmustur.
+
+dosya2.dat dosyasinda arama islemi 1.968 saniye surmustur.
+
+12- serhata kelimesinden dosya3.rtf dosyasinda 1 adet vardir ve 1. 3. kelimelerinde bulunmustur.
+
+13- serhate kelimesinden dosya3.rtf dosyasinda 1 adet vardir ve 2. kelimelerinde bulunmustur.
+
+14- serhati kelimesinden dosya3.rtf dosyasinda 1 adet vardir ve kelimelerinde bulunmustur.
+
+15- serhataa kelimesinden dosya3.rtf dosyasinda 1 adet vardir ve 4. kelimelerinde bulunmustur.
+
+16- serhatee kelimesinden dosya3.rtf dosyasinda 1 adet vardir ve 5. kelimelerinde bulunmustur.
+
+17- serhatii kelimesinden dosya3.rtf dosyasinda 1 adet vardir ve 6. kelimelerinde bulunmustur.
+
+dosya3.rtf dosyasinda arama islemi 1.703 saniye surmustur.
+
+18- serhata kelimesinden dosya4.html dosyasinda 1 adet vardir ve 1. 3. kelimelerinde bulunmustur.
+
+19- serhate kelimesinden dosya4.html dosyasinda 1 adet vardir ve 2. kelimelerinde bulunmustur.
+
+20- serhati kelimesinden dosya4.html dosyasinda 1 adet vardir ve kelimelerinde bulunmustur.
+
+21- serhataa kelimesinden dosya4.html dosyasinda 1 adet vardir ve 4. kelimelerinde bulunmustur.
+
+22- serhatee kelimesinden dosya4.html dosyasinda 1 adet vardir ve 5. kelimelerinde bulunmustur.
+
+23- serhatii kelimesinden dosya4.html dosyasinda 1 adet vardir ve 6. kelimelerinde bulunmustur.
+
+dosya4.html dosyasinda arama islemi 2.359 saniye surmustur.
+
+Arama islemi toplam 8.295 saniye surmustur.
